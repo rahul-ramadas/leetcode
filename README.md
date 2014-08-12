@@ -1,4 +1,6 @@
-leetcode
+LeetCode
 ========
 
-My LeetCode Solutions
+My LeetCode solutions.
+
+https://oj.leetcode.com/problems/
