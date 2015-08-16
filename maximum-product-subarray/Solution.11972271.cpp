@@ -12,7 +12,7 @@ public:
             {
                 bestProduct = max(bestProduct, maxPositive * A[i]);
                 maxPositive *= A[i];
-                minNegative *= A[i];
+                minNegative *= max(1, A[i]);
             }
             else if (A[i] == 0)
             {
