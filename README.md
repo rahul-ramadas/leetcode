@@ -1,6 +1,6 @@
 LeetCode
 ========
 
-My LeetCode solutions, scraped using [leetcode_downloader](https://github.com/tg123/leetcode_downloader).
+My LeetCode solutions, scraped using [LeetcodeDownloader](https://github.com/rahul-ramadas/LeetcodeDownloader).
 
 https://oj.leetcode.com/problems/
