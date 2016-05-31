@@ -1,4 +1,4 @@
-# LeetCode ![Progress](https://img.shields.io/badge/progress-258%2F335-green.svg?style=flat-square)
+# LeetCode ![Progress](https://img.shields.io/badge/progress-267%2F334-green.svg?style=flat-square)
 
 My LeetCode solutions.
 
